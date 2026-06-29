@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am passionate about Full Stack Development and currently learning Artificial Intelligence, Machine Learning.
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [linkedin.com/in/skandpandey](https://linkedin.com/in/skandpandey)
+* ✉️  You can contact me at [linkedin](https://linkedin.com/in/skandpandey)
 * 🧠  I'm currently learning AI/ML
 * 🚀 Building Full Stack Applications with MERN Stack
 
